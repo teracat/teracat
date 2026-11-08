@@ -2,7 +2,7 @@
 
 Apps & Web development across multiple projects, primarily using .NET C# to create mobile apps with Xamarin Forms/MAUI for Android and iOS, web services, WPF applications, and Windows services. In some applications and web services, I use SQL Server and Entity Framework.
 
-I own software for managing clinical centers, developed with Delphi and Firebird, which also includes modules developed in C# for online payments (bank and PayPal), appointment reservations, and videoconferencing.
+I owned a software for managing clinical centers, developed with Delphi and Firebird, which also includes modules developed in C# for online payments (bank and PayPal), appointment reservations, and videoconferencing.
 
 Several years ago, I also used Java to develop Android apps and Objective-C for iOS apps.
 
